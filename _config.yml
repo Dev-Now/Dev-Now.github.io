@@ -23,9 +23,12 @@ email: gmajdoub.website@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am Ghazi Majdoub.
   Welcome to my personal website.
-  I post all my work here and it is all open.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+title_ar: غازي المجدوب
+
+show_excerpts: true
 
 github_username:  Dev-Now
 linkedin_username: ghazi-majdoub-64401838
