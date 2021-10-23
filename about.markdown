@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="/assets/id.jpg" alt="Ghazi Majdoub, photo" width="300" style="float: right; margin: 10px"/>
+
 My name is Ghazi Majdoub. I am a senior programmer analyst at Dacima Software (Montreal, Canada). I worked as a senior Aircraft Simulator developper for 7 years before the covid-19 pandemic.
 
 For the past 9 years, I have successfully completed innovative and challenging projects collaborating with highly skilled teams. For more details about my career, please check my [LinkedIn profile](https://www.linkedin.com/in/ghazi-majdoub-64401838).
