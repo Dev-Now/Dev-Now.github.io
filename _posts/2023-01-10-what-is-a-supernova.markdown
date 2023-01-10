@@ -2,7 +2,7 @@
 layout: post_ar
 title: "ما السوبرنوفا؟ في أقل من خمس دقائق"
 date: 2023-01-10
-categories: تسهيل_العلوم فيزياء فلك
+categories: science_simplified physics astronomy
 lang: ar
 ---
 
