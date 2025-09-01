@@ -32,7 +32,7 @@ lang: ar
 2. شغّل المُثبّت واتبع الخطوات.
 3. افتح التطبيق من قائمة ابدأ أو اختصار سطح المكتب.
 
-رابط الإصدار: https://github.com/Dev-Now/zakaty/releases/tag/v1.0.0
+رابط الإصدار: [https://github.com/Dev-Now/zakaty/releases/tag/v1.0.0](https://github.com/Dev-Now/zakaty/releases/tag/v1.0.0)
 
 ### استكشاف الأخطاء
 - إن لم يعمل: جرّب التشغيل كمسؤول.
@@ -70,7 +70,7 @@ lang: ar
 - الملاحظات والأخطاء: افتح Issue في GitHub.
 - بلّغ عن الأخطاء مع: نسخة ويندوز، نسخة التطبيق، خطوات إعادة المشكلة، لقطات شاشة إن وجدت.
 
-المستودع: https://github.com/Dev-Now/zakaty
+المستودع: [https://github.com/Dev-Now/zakaty](https://github.com/Dev-Now/zakaty)
 
 ## لقطات شاشة
 

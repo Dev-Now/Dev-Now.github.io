@@ -33,7 +33,7 @@ Keeping yearly Zakat records in scattered spreadsheets is error‑prone. Zakaty 
 2. Run the installer and follow the wizard.
 3. Launch "Zakaty" from Start Menu (or desktop shortcut).
 
-Release: https://github.com/Dev-Now/zakaty/releases/tag/v1.0.0
+Release: [https://github.com/Dev-Now/zakaty/releases/tag/v1.0.0](https://github.com/Dev-Now/zakaty/releases/tag/v1.0.0)
 
 ### Troubleshooting
 - If it doesn't start: try Run as Administrator.
@@ -71,7 +71,7 @@ Full license: see the repository `LICENSE` file.
 - Issues & feedback: open a GitHub Issue.
 - Bug report tips: include Windows version, app version, reproduction steps, screenshots.
 
-Repo: https://github.com/Dev-Now/zakaty
+Repo: [https://github.com/Dev-Now/zakaty](https://github.com/Dev-Now/zakaty)
 
 ## Screenshots
 
