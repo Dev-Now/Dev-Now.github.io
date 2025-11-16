@@ -17,14 +17,48 @@
           </label>
   
           <div class="trigger">
+            {%- comment -%}
+            First, collect all unique parent menus for Arabic pages
+            {%- endcomment -%}
+            {%- assign parent_menus = "" | split: "" -%}
+            {%- for path in page_paths -%}
+              {%- assign my_page = site.pages | where: "path", path | first -%}
+              {%- if my_page.lang == "ar" and my_page.parent_menu -%}
+                {%- unless parent_menus contains my_page.parent_menu -%}
+                  {%- assign parent_menus = parent_menus | push: my_page.parent_menu -%}
+                {%- endunless -%}
+              {%- endif -%}
+            {%- endfor -%}
+
+            {%- comment -%}
+            Display top-level pages (without parent_menu)
+            {%- endcomment -%}
             {%- for path in page_paths -%}
               {%- assign my_page = site.pages | where: "path", path | first -%}
               {%- if my_page.lang == "ar" -%}
-              {%- if my_page.title and my_page.title != "العربية" -%}
+              {%- if my_page.title and my_page.title != "العربية" and my_page.parent_menu == nil -%}
               <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               {%- endif -%}
               {%- endif -%}
             {%- endfor -%}
+
+            {%- comment -%}
+            Display dropdown menus for each parent_menu
+            {%- endcomment -%}
+            {%- for parent_menu in parent_menus -%}
+              <div class="dropdown">
+                <span class="page-link dropdown-toggle">{{ parent_menu | escape }}</span>
+                <div class="dropdown-menu">
+                  {%- for path in page_paths -%}
+                    {%- assign my_page = site.pages | where: "path", path | first -%}
+                    {%- if my_page.lang == "ar" and my_page.parent_menu == parent_menu -%}
+                      <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                    {%- endif -%}
+                  {%- endfor -%}
+                </div>
+              </div>
+            {%- endfor -%}
+
             <a class="page-link" href="{{ "/" | relative_url }}">{{ "English" | escape }}</a>
           </div>
         </nav>
