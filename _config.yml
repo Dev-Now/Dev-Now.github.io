@@ -21,24 +21,21 @@
 title: Ghazi Majdoub
 email: gmajdoub.website@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am Ghazi Majdoub.
-  Welcome to my personal website.
+  Software engineer and researcher sharing insights on automation, sofware design, and education.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 title_ar: غازي المجدوب
 description_ar: >-
-  أنا غازي المجدوب.
-  مرحبا على موقعي الخاصّ.
-  تجدون هنا أعمالي الكاملة وهي مفتوحة ومتاحة للجميع.
+  مهندس برمجيات وباحث يشارك رؤى حول الأتمتة وتصميم البرمجيات والتعليم.
 
 show_excerpts: true
 
 github_username:  Dev-Now
 linkedin_username: ghazi-majdoub-64401838
 linkedin_name: Ghazi Majdoub
-gitlab_username: G_M_Dev
-patreon_username: gmajdoub
+#gitlab_username: G_M_Dev
+#patreon_username: gmajdoub
 
 # Build settings
 theme: minima
