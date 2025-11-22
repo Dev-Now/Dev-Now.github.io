@@ -4,6 +4,7 @@ title: علم التربة والتسميد
 permalink: /ar/learn/agriculture/soil-science/
 lang: ar
 parent_menu: تعلم فن الزراعة
+menu_order: 2
 ---
 
 بسم الله الرحمن الرحيم.

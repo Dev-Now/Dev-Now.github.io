@@ -4,6 +4,7 @@ title: أنظمة الري الحديثة
 permalink: /ar/learn/agriculture/irrigation-systems/
 lang: ar
 parent_menu: تعلم فن الزراعة
+menu_order: 6
 ---
 
 <div dir="rtl" markdown="1">

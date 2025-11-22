@@ -1,9 +1,10 @@
 ---
 layout: page_ar
-title: فسيولوجيا النبات - كيف ينمو النبات؟
+title: فسيولوجيا النبات
 permalink: /ar/learn/agriculture/plant-physiology/
 lang: ar
 parent_menu: تعلم فن الزراعة
+menu_order: 3
 ---
 
 بسم الله الرحمن الرحيم.

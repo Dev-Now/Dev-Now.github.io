@@ -1,9 +1,10 @@
 ---
 layout: page_ar
-title: الآفات والأمراض - التشخيص والوقاية
+title: الآفات والأمراض
 permalink: /ar/learn/agriculture/pests-diseases/
 lang: ar
 parent_menu: تعلم فن الزراعة
+menu_order: 4
 ---
 
 بسم الله الرحمن الرحيم.

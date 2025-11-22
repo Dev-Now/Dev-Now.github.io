@@ -4,6 +4,7 @@ title: مقدمة وتعريف
 permalink: /ar/learn/agriculture/introduction/
 lang: ar
 parent_menu: تعلم فن الزراعة
+menu_order: 1
 ---
 
 بسم الله الرحمن الرحيم.
