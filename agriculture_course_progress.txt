@@ -81,7 +81,7 @@ TODO 7: ✅ COMPLETED - Pests & Diseases - Part 4 (75-100%)
 
 LESSON 4: المناخ والتقويم الزراعي لصفاقس
 ----------------------------------------
-Status: ⏳ 50% COMPLETED (Chapters 1-3 done)
+Status: ⏳ 75% COMPLETED (Chapters 1-3 + Climate Adaptation done)
 File: learn_agriculture_climate_calendar_ar.markdown
 
 TODO 8: ✅ COMPLETED - Define lesson plan and table of contents for Climate & Calendar
@@ -101,17 +101,20 @@ TODO 10: ✅ COMPLETED - Compose Climate & Calendar - Part 2 (25-50%)
      (ساعات البرد، متطلبات الأشجار المختلفة)
    [Completed on: November 22, 2025]
 
-TODO 11: ⏳ IN PROGRESS - Compose Climate & Calendar - Part 3 (50-75%)
-   Expected content:
-   - التكيف مع التغيرات المناخية
-   - الصقيع والموجات الحارة
-   - إدارة المخاطر المناخية
+TODO 11: ✅ COMPLETED - Compose Climate & Calendar - Part 3 (50-75%)
+   - الفصل الثالث (تكملة): الحرارة التراكمية (GDD) ✅
+   - الفصل الثالث (تكملة): الصقيع (نادر لكن ممكن) ✅
+   - الفصل الثالث (تكملة): الموجات الحارة ✅
+   - الفصل الثالث (تكملة): الجفاف وإدارة المخاطر المناخية ✅
+   [Completed on: November 22, 2025]
 
-TODO 12: Compose Climate & Calendar - Part 4 (75-100%)
+TODO 12: ⏳ IN PROGRESS - Compose Climate & Calendar - Part 4 (75-100%)
    Expected content:
+   - الفصول المتبقية (4-10): التقويم الزراعي الشهري
    - خطة زراعية سنوية نموذجية
    - تدوير المحاصيل
-   - استغلال كل موسم للأمثلية
+   - خلاصة ونقاط أساسية
+   - تطبيقات عملية فورية
 
 LESSON 5: أنظمة الري الحديثة
 -----------------------------
@@ -150,19 +153,18 @@ PROGRESS TRACKING:
 
 Current Status:
 - Lessons Completed: 3/5 (60%) ✅✅✅
-- Lessons In Progress: 0/5
-- Lessons Remaining: 2/5
+- Lessons In Progress: 1/5 (Climate & Calendar - 75% done)
+- Lessons Remaining: 1/5
 
 Total TODOs: 17
-Completed: 10/17 ✅
+Completed: 11/17 ✅
 In Progress: 1/17 ⏳
-Not Started: 6/17
+Not Started: 5/17
 
 Next Immediate Actions:
-1. ✅ TODO 1-10: COMPLETED (59% overall progress!)
-2. ➡️ TODO 11: Climate & Calendar Part 3 (50-75%) - IN PROGRESS
-3. TODO 12: Complete Climate & Calendar (final part)
-4. TODO 13-17: Irrigation Systems lesson (5 parts)
+1. ✅ TODO 1-11: COMPLETED (65% overall progress!)
+2. ➡️ TODO 12: Climate & Calendar Part 4 (75-100%) - IN PROGRESS (final chapters)
+3. TODO 13-17: Irrigation Systems lesson (5 parts)
 
 =============================================================================
 NOTES & REMINDERS:
