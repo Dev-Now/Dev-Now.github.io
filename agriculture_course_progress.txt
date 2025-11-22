@@ -1,0 +1,202 @@
+=============================================================================
+  TODO LIST - AGRICULTURE COURSE COMPLETION
+  Course: تعلم فن الزراعة (Learn the Art of Agriculture)
+  Date Started: November 22, 2025
+  Target: Complete all lessons promised in the introduction
+=============================================================================
+
+OVERVIEW OF PROMISED TOPICS (from intro):
+------------------------------------------
+المسار الأول: الأساسيات العلمية
+1. ✅ علم التربة والتسميد (COMPLETED - soil science)
+2. ⏳ فسيولوجيا النبات - كيف ينمو النبات؟ (50% DONE - plant physiology)
+3. ⬜ الآفات والأمراض - التشخيص والوقاية (NOT STARTED)
+4. ⬜ المناخ والتقويم الزراعي لصفاقس (NOT STARTED)
+5. ⬜ أنظمة الري الحديثة (NOT STARTED)
+
+DETAILED TODO LIST:
+===================
+
+LESSON 1: علم التربة والتسميد
+-------------------------------
+Status: ✅ FULLY COMPLETED
+File: learn_agriculture_soil_science_ar.markdown
+Notes: This lesson is comprehensive and complete.
+
+LESSON 2: فسيولوجيا النبات - كيف ينمو النبات؟
+----------------------------------------------
+Status: ✅ 100% COMPLETED
+File: learn_agriculture_plant_physiology_ar.markdown
+Completed on: November 22, 2025
+
+TODO 1: ✅ COMPLETED - Plant Physiology Lesson - Part 2 (25% - reach 75%)
+   - الفصل السادس: مراحل نمو النبات ✅
+   - الفصل السابع: هرمونات النبات ✅
+   - الفصل الثامن: استجابة النبات للإجهاد ✅
+   [Completed on: November 22, 2025]
+
+TODO 2: ✅ COMPLETED - Plant Physiology Lesson - Part 3 (final 25% - reach 100%)
+   - الفصل التاسع: التطبيقات العملية في صفاقس ✅
+   - الفصل العاشر: حلول لمشاكل فسيولوجية شائعة ✅
+   - خلاصة الدرس - النقاط الأساسية ✅
+   - تطبيقات عملية فورية ✅
+   [Completed on: November 22, 2025]
+
+LESSON 3: الآفات والأمراض - التشخيص والوقاية
+-------------------------------------------
+Status: ✅ 100% COMPLETED
+File: learn_agriculture_pests_diseases_ar.markdown
+Completed on: November 22, 2025
+
+TODO 3: ✅ COMPLETED - Define lesson plan and table of contents for Pests & Diseases
+   File created: learn_agriculture_pests_diseases_ar.markdown
+   Structure: 10 chapters covering identification, prevention, and treatment
+   [Completed on: November 22, 2025]
+
+TODO 4: ✅ COMPLETED - Pests & Diseases - Part 1 (0-25%)
+   - مقدمة وأهمية التشخيص المبكر ✅
+   - أنواع الآفات (حشرية، فطرية، بكتيرية، فيروسية) ✅
+   - دورات حياة الآفات الشائعة ✅
+   - مبادئ المكافحة المتكاملة ✅
+   [Completed on: November 22, 2025]
+
+TODO 5: ✅ COMPLETED - Pests & Diseases - Part 2 (25-50%)
+   - الآفات الحشرية الشائعة في صفاقس ✅
+   - الأمراض الفطرية الشائعة ✅
+   - تشخيص الأعراض وتمييزها ✅
+   [Completed on: November 22, 2025]
+
+TODO 6: ✅ COMPLETED - Pests & Diseases - Part 3 (50-75%)
+   - الفصل السادس: تشخيص الأعراض ✅
+   - الفصل السابع: المكافحة البيولوجية والطبيعية ✅
+   - الفصل الثامن: المبيدات الآمنة والعضوية ✅
+   [Completed on: November 22, 2025]
+
+TODO 7: ✅ COMPLETED - Pests & Diseases - Part 4 (75-100%)
+   - الفصل التاسع: برامج الوقاية الموسمية ✅
+   - الفصل العاشر: دليل خاص بأشجار المستخدم ✅
+   - خلاصة الدرس والنقاط الأساسية ✅
+   - تطبيقات عملية فورية ✅
+   [Completed on: November 22, 2025]
+
+LESSON 4: المناخ والتقويم الزراعي لصفاقس
+----------------------------------------
+Status: ⏳ 50% COMPLETED (Chapters 1-3 done)
+File: learn_agriculture_climate_calendar_ar.markdown
+
+TODO 8: ✅ COMPLETED - Define lesson plan and table of contents for Climate & Calendar
+   File created: learn_agriculture_climate_calendar_ar.markdown
+   Structure: 10 chapters covering climate characteristics, seasonal calendar, planning, and adaptation
+   [Completed on: November 22, 2025]
+
+TODO 9: ✅ COMPLETED - Compose Climate & Calendar - Part 1 (0-25%)
+   - الفصل الأول: خصائص مناخ صفاقس ✅
+     (حرارة شهرية، أمطار، رطوبة، رياح الشهيلي، ساعات الشمس)
+   [Completed on: November 22, 2025]
+
+TODO 10: ✅ COMPLETED - Compose Climate & Calendar - Part 2 (25-50%)
+   - الفصل الثاني: الفصول الأربعة من منظور زراعي ✅
+     (الشتاء، الربيع، الصيف، الخريف - خصائص، فرص، تحديات، قوائم أعمال)
+   - الفصل الثالث: مفاهيم مناخية أساسية ✅
+     (ساعات البرد، متطلبات الأشجار المختلفة)
+   [Completed on: November 22, 2025]
+
+TODO 11: ⏳ IN PROGRESS - Compose Climate & Calendar - Part 3 (50-75%)
+   Expected content:
+   - التكيف مع التغيرات المناخية
+   - الصقيع والموجات الحارة
+   - إدارة المخاطر المناخية
+
+TODO 12: Compose Climate & Calendar - Part 4 (75-100%)
+   Expected content:
+   - خطة زراعية سنوية نموذجية
+   - تدوير المحاصيل
+   - استغلال كل موسم للأمثلية
+
+LESSON 5: أنظمة الري الحديثة
+-----------------------------
+Status: ⬜ NOT STARTED
+File: learn_agriculture_irrigation_systems_ar.markdown (TO BE CREATED)
+
+TODO 13: Define lesson plan and table of contents for Irrigation Systems
+
+TODO 14: Compose Irrigation Systems - Part 1 (0-25%)
+   Expected content:
+   - أساسيات علم الري
+   - احتياجات النباتات المائية
+   - أنواع أنظمة الري (غمر، رش، تنقيط، تحت سطحي)
+
+TODO 15: Compose Irrigation Systems - Part 2 (25-50%)
+   Expected content:
+   - الري بالتنقيط - التصميم والتركيب
+   - مكونات النظام وكيفية اختيارها
+   - حساب الاحتياجات المائية
+
+TODO 16: Compose Irrigation Systems - Part 3 (50-75%)
+   Expected content:
+   - الأتمتة والموقتات الإلكترونية
+   - أجهزة الاستشعار والتحكم الذكي
+   - صيانة النظام ومعالجة المشاكل
+
+TODO 17: Compose Irrigation Systems - Part 4 (75-100%)
+   Expected content:
+   - تصميم نظام كامل لحديقة نموذجية
+   - الميزانية والعائد على الاستثمار
+   - نصائح عملية وأخطاء شائعة
+
+=============================================================================
+PROGRESS TRACKING:
+=============================================================================
+
+Current Status:
+- Lessons Completed: 3/5 (60%) ✅✅✅
+- Lessons In Progress: 0/5
+- Lessons Remaining: 2/5
+
+Total TODOs: 17
+Completed: 10/17 ✅
+In Progress: 1/17 ⏳
+Not Started: 6/17
+
+Next Immediate Actions:
+1. ✅ TODO 1-10: COMPLETED (59% overall progress!)
+2. ➡️ TODO 11: Climate & Calendar Part 3 (50-75%) - IN PROGRESS
+3. TODO 12: Complete Climate & Calendar (final part)
+4. TODO 13-17: Irrigation Systems lesson (5 parts)
+
+=============================================================================
+NOTES & REMINDERS:
+=============================================================================
+
+STYLE GUIDELINES (to maintain consistency):
+- Use clear Arabic language with proper diacritics where helpful
+- Include practical examples specific to Sfax, Tunisia
+- Reference user's specific trees (fig, citrus, pomegranate, loquat, olive)
+- Provide actionable steps and checklists
+- Include tables for quick reference
+- Use emoji sparingly for visual markers (✅ ❌ ⚠️ etc.)
+- Maintain conversational yet educational tone
+- Always connect theory to practice
+- Include budget considerations (100-150 TND monthly budget)
+- Focus on organic/biological methods when possible
+
+QUALITY STANDARDS:
+- Each lesson should be comprehensive (similar length to soil science lesson)
+- Include 10 main chapters/sections
+- Provide seasonal calendar when relevant
+- Include troubleshooting sections
+- End with practical action steps
+- Create summary tables for quick reference
+
+TECHNICAL REQUIREMENTS:
+- Each lesson is a separate markdown file
+- Use proper front matter (layout, title, permalink, lang, parent_menu)
+- Use proper heading hierarchy (##, ###, ####)
+- Include internal navigation with anchor links
+- Match the structure and depth of the completed soil science lesson
+
+=============================================================================
+END OF TODO LIST
+=============================================================================
+
+Last Updated: November 22, 2025
