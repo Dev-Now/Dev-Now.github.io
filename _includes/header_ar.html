@@ -73,4 +73,28 @@
       {%- endif -%}
     </div>
   </header>
+
+  <script>
+  (function() {
+    // Toggle dropdown on click/tap for mobile devices
+    document.querySelectorAll('.dropdown-toggle').forEach(function(toggle) {
+      toggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var dropdown = this.closest('.dropdown');
+        // Close other open dropdowns
+        document.querySelectorAll('.dropdown.open').forEach(function(d) {
+          if (d !== dropdown) d.classList.remove('open');
+        });
+        dropdown.classList.toggle('open');
+      });
+    });
+    // Close dropdowns when tapping outside
+    document.addEventListener('click', function() {
+      document.querySelectorAll('.dropdown.open').forEach(function(d) {
+        d.classList.remove('open');
+      });
+    });
+  })();
+  </script>
   

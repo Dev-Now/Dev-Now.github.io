@@ -56,14 +56,18 @@
     display: block;
   }
 
+  .dropdown.open .dropdown-menu {
+    display: block;
+  }
+
   @media screen and (max-width: 600px) {
     .dropdown-menu {
       position: static;
       box-shadow: none;
       background-color: transparent;
     }
-    
+
     .dropdown-menu a {
       padding-right: 30px;
     }
-  } 
+  }
